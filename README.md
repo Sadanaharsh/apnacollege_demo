@@ -1,2 +1,3 @@
 # apnacollege_demo
-This is my learning repositry
+This is my learning repositry.
+Author - Harsh Sadana
